@@ -1,2 +1,3 @@
 # hellowork
-study git
+study git :)
+another text....
